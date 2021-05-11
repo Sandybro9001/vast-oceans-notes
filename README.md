@@ -7,9 +7,9 @@ This site will have links to each of my notes sheets for use by the other player
 
 ## vast-oceans resources
 
-[Crew Roster](crew-roster.md)
-[Magic Items Logbook](magic-item-log.md)
-[Maps](maps-collection.md)
+- [Crew Roster](crew-roster.md)
+- [Magic Items Logbook](magic-item-log.md)
+- [Maps](maps-collection.md)
 
 ## vast-oceans-session notes
 
