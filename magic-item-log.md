@@ -64,6 +64,8 @@ With descriptions. Buckle up.
 
 
 ### Greaser Jacket
+Black Leather Jacket worn by Johnny Slick, captain of the Greaser Pirates. Jacket increases wearer's AC to 16, gives wearer resistance to fire damage, qnd lets them walk on slippery surfaces.
+Jacket cleans itself when the command word is spoken.
 
 ### Telepathy Transponder Network
 Three helms of telepathy which have been connected with magical circuitry through.... ok, this is written by the rogue. Triangulates into TacNet. 
@@ -88,7 +90,14 @@ In case you ever need to save hyrule, this boomerang will help you beat Barinade
 +1 Rapier, Deals +7 Damage
 
 ### Staff of the Coven: Demon Wolf
-Ask Carlo what this does. +1d4 necrotic damage on spells and miscellaneous very evil things. 
+Ironwood (?) staff with the head of a wolf, can transform into a braclet when given a command word. Is posesed by a wolf demon and has the ability to eat some curses as well as gain power from monsters it consumes.
+Is a +2 staff that adds 1d4 Necrotic damage to spells cast through it.
+
+Monstrous Abilities:
+- Grazorvaytin: Can cast [Flesh to Stone](https://roll20.net/compendium/dnd5e/Spells:Flesh%20to%20Stone#content) once per day.
+- Megalodon Tooth: Can [Polymorph](https://roll20.net/compendium/dnd5e/Spells:Polymorph) a creature into a Megalodon once per day.
+- Troll's Eye: Weilder get's +2 Strength and +2 Constitution
+- Dragon's Scale: Can cast [Dragon's Breath](https://roll20.net/compendium/dnd5e/Spells:Dragon's%20Breath) on self once per day, spell is limited to 3rd level and only deals cold damage.
 
 ### Save the Queen
 "The Second horn of Celestia wrought into a sword, it's blade courses with radiance when wielded. The hilt is forged from platinum with a diamond heart. 
@@ -144,10 +153,12 @@ Sets of gear acquired in the Hall of Champions in the Womb of the Gods.
 
 
 ### Metagross
+**Great Hammer:** 2d8+Int Psychic Damage, On Hit Disadvantage on Saving Throws for 1 round.
 
+**Plate Armor:** Full Plate armor that can be used without heavy armor proficiency. AC 18.
 
 ### Dragapult
-
+**Hat:** +1d4 Damage to [Magic Missile](https://roll20.net/compendium/dnd5e/Spells:Magic%20Missile)
 
 ### Kommo-o
 
