@@ -54,8 +54,6 @@ Potions, Scrolls, Bizarre Biomagical Snails (RIP), etc
 - Stockpile of Pixie Dust
 - A (very secure) stockpile of fairy water
 
-
-
 ## Custom Vast Oceans Magic Items
 
 With descriptions. Buckle up. 
@@ -136,6 +134,15 @@ This formidable axe once belonged to Carvu, the Hurricane's Bastard. The blade o
 
 ### Play Dead Ring
 A ring that makes you appear to be dead. When you aren't. Probably extends your life. 
+
+### Kisame's Samehada
+Legendary Greatsword: Reach, 1d12 damage: on hit, 1d4 bleed damage per round, con save ends, stacks
+Also on hit: steals a spell slot and converts it into enhancement bonus for ten rounds, stacking up to +3
+
+### Kisame's Coat
+
+### Kisame's Headband
+
 
 ## The Hall of Champions Sets
 Sets of gear acquired in the Hall of Champions in the Womb of the Gods.
