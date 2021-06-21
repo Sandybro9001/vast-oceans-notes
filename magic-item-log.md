@@ -5,6 +5,8 @@ Theoretically every magic item our plucky heroes (still) posess. Theoretically c
 Miscellaneous nifty objects. Some of these are third party. Just google those. 
 
 - Drift Globe
+- 2 Bags of Holding
+- WAld of Lighning Bolts
 - Staff of Invisibility
 - Staff of Teleportation
 - Staff of Healing
@@ -12,6 +14,8 @@ Miscellaneous nifty objects. Some of these are third party. Just google those.
 - Wand of Secrets
 - Wand of Energy Detection
 - Boots of Levitation
+- Winged Boots
+- Carpet of Flying
 - Mask of the Black Dragon
 - Eversmoking Flask
 - Figurine of Wondrous Power: Silver Raven 
@@ -28,8 +32,10 @@ Miscellaneous nifty objects. Some of these are third party. Just google those.
 - Scarf of Protection +1
 - Ring of Resisance
 - Ring of Jumping
+- ring of evasion
 - Stone of Good Luck
 - Eyes of Minute Seeing
+- Ring of Spell storing 
 - Tome of the Stilled Tongue
 - Rod of the Pactkeeper +1
 - +1 Longsword
@@ -37,7 +43,7 @@ Miscellaneous nifty objects. Some of these are third party. Just google those.
 ## Consumables
 Potions, Scrolls, Bizarre Biomagical Snails (RIP), etc
 
-- 53 Standard Potions of Healing
+- 51 Standard Potions of Healing
 - 11 Greater Potions of Healing
 - 3 Potions of Supreme Healing
 
@@ -70,18 +76,35 @@ Three helms of telepathy which have been connected with magical circuitry throug
 
 ### Sofaf
 One of the legendary helix blades, its doubled blade courses with inky blackness and a sickly green thirst. 
++2 Scimitar
 ### Solas
 Another of the legendary helix blades, with doubled blade of radiant and shadowy energy. 
++2 Rapier
 ### Sobam
-Yet another legendary helix blade, Sobam
+Yet another legendary helix blade, this heavy blade can carry potions that can be applied to targets or the user while fighting
++2 Falchion
+### Sofi
+The fourth legendary helix blade, a short sword coursing with the powers of fire and ice. 
++2 Short sword
+(additional effects in design)
+
+### Sowap
+The fifth legendary helix blade, a longsword that seems to radiate the energy of the changing whims of time
++2 Longsword
+At the start of each of your turns, choose war or peace: 
+War: +1 crit range, you have advantage on attacks you make with this weapon, and your opponents weapon attacks have advantage against you. 
+Peace: +2 to AC, You have disadvantage on attacks with this weapon. 
+
+
 ### The Mirror Shield
 A silver shield with a magical mirror on the front face.
-Reaction to deflect
+Reaction to deflect spells
 
 ### Chariszord
 
 ### The Triforce Boomerang
 In case you ever need to save hyrule, this boomerang will help you beat Barinade and save Jabu-Jabu. 
+Currently has three elemental echantments granting it power.
 
 ### Vicious
 "The blood-red blade of this rapier radiates a hostile energy"
@@ -96,6 +119,7 @@ Monstrous Abilities:
 - Megalodon Tooth: Can [Polymorph](https://roll20.net/compendium/dnd5e/Spells:Polymorph) a creature into a Megalodon once per day.
 - Troll's Eye: Weilder get's +2 Strength and +2 Constitution
 - Dragon's Scale: Can cast [Dragon's Breath](https://roll20.net/compendium/dnd5e/Spells:Dragon's%20Breath) on self once per day, spell is limited to 3rd level and only deals cold damage.
+- Dragon's Eye: The wielder has truesight
 
 ### Save the Queen
 "The Second horn of Celestia wrought into a sword, it's blade courses with radiance when wielded. The hilt is forged from platinum with a diamond heart. 
