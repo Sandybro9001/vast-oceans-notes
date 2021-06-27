@@ -51,4 +51,27 @@ Alithyra Ironstorm
 
 They also claimed various draconic remains, including horns, scales, and teeth. Carlo's staff of the wolf also consumed the eye of Yvneth, gaining the power to confer true sight. Phadar, in league with several dwarves and other drow, agreed to repair the fractured drow moonblade that we discovered in the dragon's lair. Tywin and Diana made a sizeable investment into building and opening a trading post with private docks in Hammer keep's channel. 
 
+# Episode 56: Diary of a bunch of defeated swordsmen. 
+
+Alithyra does some searching, and with Tywin's help finds and hires Illyena Taborwin as her personal attendant. 
+
+The Flock then head back to the Thiens, where Captain Toru and his crew wait to fight us for the fate of the Reese Archipelago. The Oracle informs us that we will fight in the Heaven's Arena in the center of the islands. Some investigation leads Tywin to Drake Valentine from the World News, who collects bounty information and with some convincing gives us some information on our opponents: 
+
+Captain Toru, the Golden Serpent
+- An immortal swordmaster, has a style like that of a serpent, wielding his elegant rapier. 
+
+Fryrisha Gelvleaf, Storm Elf
+- From the elven kingdom, world traveler, challenged Dracuil and barely survived. Uses two lightning blades, and manipulates the weather. 
+
+Grotle Spellblade, Mage Slayer
+- Renowned bounty hunter known for jumping on and disabling mages. 
+
+Poru Hurka, Steel's Rage
+- Half-Orc, ferocious guy, simple enhanced weapons, tanky. 
+
+Brandon Cano, Three Style Master
+- Wields three swords at once, almost certainly magical, but masked by illusion. 
+
+Having finished up in Thiens, the Flock makes a brief stop at Calicyon to manage affairs, then heads to the Arena, hoping to meet with Draciul before the deadly bout. 
+
 [<--Vast-Oceans Home](README.md)
