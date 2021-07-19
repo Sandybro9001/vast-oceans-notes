@@ -76,41 +76,95 @@ Three helms of telepathy which have been connected with magical circuitry throug
 
 ### Sofaf
 One of the legendary helix blades, its doubled blade courses with inky blackness and a sickly green thirst. 
+
 +2 Scimitar
+
 ### Solas
 Another of the legendary helix blades, with doubled blade of radiant and shadowy energy. 
-+2 Rapier
+
++2 Rapier, +2d6 Radiant Damage on hit, twice per day dimension door. 
+
 ### Sobam
 Yet another legendary helix blade, this heavy blade can carry potions that can be applied to targets or the user while fighting
 +2 Falchion
 ### Sofi
 The fourth legendary helix blade, a short sword coursing with the powers of fire and ice. 
+
 +2 Short sword
 (additional effects in design)
 
 ### Sowap
-The fifth legendary helix blade, a longsword that seems to radiate the energy of the changing whims of time
+The fifth legendary helix blade, a longsword that seems to radiate the energy of the changing whims of time.
+
 +2 Longsword
+
 At the start of each of your turns, choose war or peace: 
+
 War: +1 crit range, you have advantage on attacks you make with this weapon, and your opponents weapon attacks have advantage against you. 
+
 Peace: +2 to AC, You have disadvantage on attacks with this weapon. 
 
+### Sotaj
++2 Longsword
+Oh hit, choose 1: 
+  *Truth:* Any illusion spells or other magical disguises on the target immediately end, and the target cannot be hidden or otherwise obfuscated by magic for 10 rounds. 
+  *Justice:* Attack as with booming blade, with caster level equal to the wielder's character level. 
+
+### Sohah
++2 Longsword
+On hit, the target cannot take reactions until thier next turn. 
+While wielding the Sword, twice per day as a bonus action the wielder can use two of their recoveries to heal. 
+
+### Sosas
++2 Longsword
+
+On hit, choose one:
+ - Cast banishment on the target with a save DC of 16. Only one creature can be banished at a time in this way. 
+ - Cast 3.5 shatter on a nonmagical item worn or carried by the target
+
+### Brandon's Magical Helmet
+
+
+
+### Toru's Rapier
+
++3 Rapier, when satisfying swashbuckler, attacks gain advantage. 
+
+### Toru's Tunic
+
+Padded Armor, add Charisma to AC in addition to DEX. wearer gets +2d6 sneak attack damage.
+
+### Mage Slayer Longsword
+
+The wielder has the mage slayer feat. If redundant, the wielder gets advantage on all mage slayer bonus attacks. 
+
+### Mage Slayer Armor
+
+This magical plate armor protects the wearer from magic, giving them advantage on all saving throws from spells.
+
+### Lightning blades
+
+A pair of matched longswords that course visibly with lightning. Each deals a bonus 2d6 electric damage on hit. 
 
 ### The Mirror Shield
+
 A silver shield with a magical mirror on the front face.
 Reaction to deflect spells
 
 ### Chariszord
 
 ### The Triforce Boomerang
+
 In case you ever need to save hyrule, this boomerang will help you beat Barinade and save Jabu-Jabu. 
 Currently has three elemental echantments granting it power.
 
 ### Vicious
+
 "The blood-red blade of this rapier radiates a hostile energy"
 +1 Rapier, Deals +7 Damage
 
 ### Staff of the Coven: Demon Wolf
+
 Ironwood (?) staff with the head of a wolf, can transform into a braclet when given a command word. Is posesed by a wolf demon and has the ability to eat some curses as well as gain power from monsters it consumes.
 Is a +2 staff that adds 1d4 Necrotic damage to spells cast through it.
 
@@ -122,14 +176,15 @@ Monstrous Abilities:
 - Dragon's Eye: The wielder has truesight
 
 ### Save the Queen
+
 "The Second horn of Celestia wrought into a sword, it's blade courses with radiance when wielded. The hilt is forged from platinum with a diamond heart. 
 +2 Longsword, deals only Radiant damage, base damage is 1d8+1d6, deals 2d10 Radiant vs. Undead. Sentient, Chaotic Good. 
 
 ### The Eclipse Horn
+
 Pure silver horn with silk strap. When blown during the zenith of sun or moon, summons 4d4+4 valkyrie soldiers. 1/week. The soldiers will report back to the queens and can carry messages.
 
 ### Moss Elixir
-A 
 
 ### Ball of the Moss Spirit
 Summons Mossy power when deployed. Don't let the grass grow under your feet!
@@ -199,6 +254,7 @@ Sets of gear acquired in the Hall of Champions in the Womb of the Gods.
 Sam's Varia Suit, Which has absorbed several items:
 - Boots of Levitation
 - Charizard Armor
+- Mage Slayer Armor
 
 
 

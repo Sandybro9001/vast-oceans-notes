@@ -19,5 +19,6 @@ These notes are organized roughly into arcs, with rough notes of each session. A
 [](notes-2.md)
 [](notes-3.md)
 [](notes-4.md)
-[Notes Part 5](notes-5.md)
+[Notes Part 5](notes-5.md): Restoring the dwarven kingdom, The battle against Captain Toru.
+
 

@@ -51,7 +51,7 @@ Alithyra Ironstorm
 
 They also claimed various draconic remains, including horns, scales, and teeth. Carlo's staff of the wolf also consumed the eye of Yvneth, gaining the power to confer true sight. Phadar, in league with several dwarves and other drow, agreed to repair the fractured drow moonblade that we discovered in the dragon's lair. Tywin and Diana made a sizeable investment into building and opening a trading post with private docks in Hammer keep's channel. 
 
-# Episode 56: Diary of a bunch of defeated swordsmen. 
+## Episode 56: Diary of a bunch of defeated swordsmen. 
 
 Alithyra does some searching, and with Tywin's help finds and hires Illyena Taborwin as her personal attendant. 
 
@@ -73,5 +73,25 @@ Brandon Cano, Three Style Master
 - Wields three swords at once, almost certainly magical, but masked by illusion. 
 
 Having finished up in Thiens, the Flock makes a brief stop at Calicyon to manage affairs, then heads to the Arena, hoping to meet with Draciul before the deadly bout. 
+
+## Episode 57: John Cena returns from the bar
+
+The Flock search the arena briefly before finding Draciul, and with some convincing he gives them advice on how to handle Toru and his crew. He also promises to tell them a story of a time long past should they emerge victorious. 
+
+After some planning and a day of rest, the time for the fight has arrived. Tywin and Sam engage Fryrisha, who after getting his weather manipulation counterspelled quickly retreats to the pool below the platforms in the arena. Grotle charges at Diana, and silences her, but is quickly cut down by the Flock's combined arms. Carlo is locked down by banishment from Brandon's Sword of Sinew and Steel, and the flock fight on as four. 
+
+As Fryrisha rejoins the fray, he is quickly dispatched, but Brandon and Poru Hurka retort with ferocious assault, dealing heavy damage to Tywin and Alithyra. Alithyra is knocked unconcious, but is quickly rescued by Samus, who lifts her into the air, and to safety. 
+
+Meanwhile, Diana siezes and opportunity to strike at Toru, and reverses the gravity beneath his feet. After Toru floats helplessly for a few seconds, gravity reasserts itself, and Toru crashes down into the platform and into Diana's clutches. Toru is taught a lesson in combustion by Diana, and just before he can recover himself to his feet, Tywin appears out of the ether and stabs him through the heart: 
+
+>  *"The thing you need to realize, Toru, is that part of being the greatest swordsman in the world is keeping yourself out of situations like this."*  -Tywin Leroux
+
+Alithyra wakes under Samus' protection, and turns her pain upon Brandon below, turning him into a lowly turtle. Brandon the turtle tries to escape into the pool, but the transformation ends Carlo's banishment...
+
+...And Carlo wastes no time in getting down to business. He leaps from the platform, snatching the turtle in his dive, and driving the turtle forcefully into the bottom of the pool. The turtle is crushed, returning Brandon to his human form, but now at the bottom of a pool grappling a 500 pound warforged.
+
+Tywin joins Carlo in handling Brandon at the floor of the pool, leaving Poru Hurka with no one to fight but a now invisible Diana. Poru flails wildly about the central platform, but after finding no purchase and being struck several times by Diana's blade, he surrenders, bellowing that none will stand and fight. 
+
+The flock clean up from the battle and lick their wounds, eager to hear Draciul's tale. 
 
 [<--Vast-Oceans Home](README.md)
