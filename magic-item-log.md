@@ -66,34 +66,41 @@ With descriptions. Buckle up.
 
 ### Magical Atlas
 
-
 ### Greaser Jacket
+
 Black Leather Jacket worn by Johnny Slick, captain of the Greaser Pirates. Jacket increases wearer's AC to 16, gives wearer resistance to fire damage, qnd lets them walk on slippery surfaces.
 Jacket cleans itself when the command word is spoken.
 
 ### Telepathy Transponder Network
+
 Three helms of telepathy which have been connected with magical circuitry through.... ok, this is written by the rogue. Triangulates into TacNet. 
 
 ### Sofaf
+
 One of the legendary helix blades, its doubled blade courses with inky blackness and a sickly green thirst. 
 
 +2 Scimitar
 
 ### Solas
+
 Another of the legendary helix blades, with doubled blade of radiant and shadowy energy. 
 
 +2 Rapier, +2d6 Radiant Damage on hit, twice per day dimension door. 
 
 ### Sobam
+
 Yet another legendary helix blade, this heavy blade can carry potions that can be applied to targets or the user while fighting
 +2 Falchion
+
 ### Sofi
+
 The fourth legendary helix blade, a short sword coursing with the powers of fire and ice. 
 
 +2 Short sword
 (additional effects in design)
 
 ### Sowap
+
 The fifth legendary helix blade, a longsword that seems to radiate the energy of the changing whims of time.
 
 +2 Longsword
@@ -105,22 +112,26 @@ War: +1 crit range, you have advantage on attacks you make with this weapon, and
 Peace: +2 to AC, You have disadvantage on attacks with this weapon. 
 
 ### Sotaj
+
 +2 Longsword
 Oh hit, choose 1: 
   *Truth:* Any illusion spells or other magical disguises on the target immediately end, and the target cannot be hidden or otherwise obfuscated by magic for 10 rounds. 
   *Justice:* Attack as with booming blade, with caster level equal to the wielder's character level. 
 
 ### Sohah
+
 +2 Longsword
 On hit, the target cannot take reactions until thier next turn. 
-While wielding the Sword, twice per day as a bonus action the wielder can use two of their recoveries to heal. 
+While wielding the Sword, twice per day as a bonus action the wielder can use two of their recoveries to heal.
 
 ### Sosas
+
 +2 Longsword
 
 On hit, choose one:
- - Cast banishment on the target with a save DC of 16. Only one creature can be banished at a time in this way. 
- - Cast 3.5 shatter on a nonmagical item worn or carried by the target
+
+- Cast banishment on the target with a save DC of 16. Only one creature can be banished at a time in this way.
+- Cast 3.5 shatter on a nonmagical item worn or carried by the target
 
 ### Brandon's Magical Helmet
 
