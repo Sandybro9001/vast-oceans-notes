@@ -1,4 +1,6 @@
-### Episode 53 (5-16-21): "Bookkeeping"
+# Notes Part 5
+
+## Episode 53 (5-16-21): "Bookkeeping"
 
 This is the first set of notes written directly on this page.
 
@@ -14,7 +16,7 @@ Antique Restoration:
 1st Level, Wizard, Ritual
 Restore one object of up to medium size or several smaller objects the wear and tear of ages. Especially books. Higher levels allow for more ambitious restoration projects.
 
-### Episode 54 (5-24-21): "A brief interlude with the land of cigars"
+## Episode 54 (5-24-21): "A brief interlude with the land of cigars"
 
 Departed from the eclipse kingdoms, headed for Nidaverllir.
 
