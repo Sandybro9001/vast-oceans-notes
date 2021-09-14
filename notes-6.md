@@ -38,8 +38,28 @@ They head to Istan (which is swarming with marines) next to inquire about their 
 2 Frigates (15 cannons per side)
 1 Brass Kraken (armored plating, 24 cannons per side with additional 6 frontal cannons. )
 
-On the way to the eclipse kingdoms the Flock have a distant and luckily peaceful encounter with ships that seem to be the fleet of one of the Admirals. Upon arriving, they find Portlandia has a large encampment of marines that are disrupting the restoration operations. Tywin conducts several meetings with the vice admiral, merchants' council, the Queens, and the Beedle merchant in order to get things moving again. 
+On the way to the eclipse kingdoms the Flock have a distant and luckily peaceful encounter with ships that seem to be the fleet of one of the Admirals. Upon arriving, they find Portlandia has a large encampment of marines that are disrupting the restoration operations. Tywin conducts several meetings with the vice admiral, merchants' council, the Queens, and the Beedle merchant in order to get things moving again.
 
-Their business in various kingdoms concluded for now, the flock turn there eyes southward...
+Their business in various kingdoms concluded for now, the flock turn their eyes southward...
+
+## Episode 60: A Bridge Ten Yards Over Troubled Water
+
+The flock begin heading for Minashotia to meet with the heir of Owari. Along the way, Alithyra does some fishing and dredges up Jebediah, a 10 foot magical fish who seems intent on swindling the party. After the flock best him in a battle of riddles, Jebediah tries to shirk his end of the bargain by claiming he owns no posessions. While the flock is wrestling with getting Jebediah to meet his agreement, Madara appears, and demands that Jebediah turn over two items instead of just one. Madara mentions he has become the God-King of the Sea, and then jumps off the ship to be about his business.
+
+Further along, the Flock encounter a dense fog. clearing out the fog reveals a lonely stone tower, with the puzzling feature of a dock positioned 30ft above the surface of the water. Inside are thousands of inert warforged, and Dimitri, a warforged acquanted with Simon, preserved from the void century. He speaks of a purge that was to come, one which these warforged were prepared to help assist with. The Flock leave Simon and a freshly retrieved Gepetto to oversee the handling of these wayward automatons, and soldier on toward Minashotia. 
+
+After finishing up in the tower, the Flock continue sailing until they encounter two ships in pitched combat. They descend upon the ships by warp gate and demand a ceasefire. As the fighting dissipates, Tywin and Carlo begin locating the leadership of the two factions for questioning.
+
+- Duke of Dogs
+- Princess Dalia of House Lassie, Daughter of the Duke of Dogs
+- Captain Eisenhower Kerberus
+
+- Countess of Cats
+- Prince Cornelius of House O'Malley, Cub of the Countess of Cats
+- Captain Bigel Yeager
+
+As it turns out, the catfolk were fleeing the Dukedom of Dogs, having been sent to provide escort for the engaged Daughter of the Duke of Dogs. The Daughter left without any word to her father, however, and Captain Eisenhower's ship was sent to recover her. As neither side agree on much of anything, the flock opt to keep care of the Daughter until both factions can meet on the island of Nidavellir.
+
+Having temporarily resolved the conflict, the Flock continue on, and find themselves within view of Minashotia...
 
 [<--Vast-Oceans Home](README.md)
