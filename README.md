@@ -23,3 +23,4 @@ These notes are organized roughly into arcs, with rough notes of each session. A
 
 - [Notes Part 5](notes-5.md): Restoring the dwarven kingdom, The battle against Captain Toru.
 - [Notes Part 6](notes-6.md): Sailing for Wano, consolidating holdings across the sea.
+- [Notes Part 7](notes-7.md): Big Trouble in Little Polvakia, A Song of Cats and Dogs.
