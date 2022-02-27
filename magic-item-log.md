@@ -177,7 +177,7 @@ Currently has three elemental echantments granting it power.
 ### Staff of the Coven: Demon Wolf
 
 Ironwood (?) staff with the head of a wolf, can transform into a braclet when given a command word. Is posesed by a wolf demon and has the ability to eat some curses as well as gain power from monsters it consumes.
-Is a +2 staff that adds 1d4 Necrotic damage to spells cast through it.
+Is a +3 staff that adds 2d4 Necrotic damage to spells cast through it.
 
 Monstrous Abilities:
 - Grazorvaytin: Can cast [Flesh to Stone](https://roll20.net/compendium/dnd5e/Spells:Flesh%20to%20Stone#content) once per day.
@@ -185,6 +185,7 @@ Monstrous Abilities:
 - Troll's Eye: Weilder get's +2 Strength and +2 Constitution
 - Dragon's Scale: Can cast [Dragon's Breath](https://roll20.net/compendium/dnd5e/Spells:Dragon's%20Breath) on self once per day, spell is limited to 3rd level and only deals cold damage.
 - Dragon's Eye: The wielder has truesight
+- Zod the Immortal: Once per day transforms into a balor. Monsterous Abilities are shared between the balor and the weilder.
 
 ### Save the Queen
 
